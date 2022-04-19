@@ -1,4 +1,4 @@
-# <i style="color:red">#30DaysOfJavaScript</i>
+# <i>#30DaysOfJavaScript</i>
 <h2>On a mission to create 30 projects in 30 days with Vanilla JavaScript </h2>
 
 
